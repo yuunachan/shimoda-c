@@ -1,1 +1,27 @@
+/*
+タイトルのサイズ、カラー、中央揃え、上の余白をなくす
+*/
+
+
+h1{
+    font-size: 60px;
+    color: red;
+    text-align: center;
+    margin: 0 auto;
+}
+h2{
+    background-color: rgb(239, 232, 232);
+    color: green;
+    font-size: 25px;
+}
+h3{
+    background-color: rgb(239, 232, 232);
+    color: green;
+    font-size: 25px;
+}
+h4{
+    background-color: rgb(239, 232, 232);
+    color: green;
+    font-size: 25px;
+}
 
